@@ -1,0 +1,262 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "examples/template",
+					"jsonFile" : "directory-examples.template-Debug-e6b079f0921375896ebf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples/template",
+					"targetIndexes" : 
+					[
+						7,
+						8,
+						9
+					]
+				},
+				{
+					"build" : "examples/Aliyun",
+					"jsonFile" : "directory-examples.Aliyun-Debug-5d77b96314a85fb215f7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples/Aliyun",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "examples/stdthread",
+					"jsonFile" : "directory-examples.stdthread-Debug-e7e72daca288b4b0a0b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples/stdthread",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "examples/mutex",
+					"jsonFile" : "directory-examples.mutex-Debug-e55355a4dd63928c00bb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples/mutex",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "examples/condition_variable",
+					"jsonFile" : "directory-examples.condition_variable-Debug-a9721edaba95b8c7facc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples/condition_variable",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "examples/promise_future",
+					"jsonFile" : "directory-examples.promise_future-Debug-dc834e007f942acec440.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples/promise_future",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "examples/packaged_task_async",
+					"jsonFile" : "directory-examples.packaged_task_async-Debug-7015b87e357755d21734.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples/packaged_task_async",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"name" : "Clion_Qt1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Aliyun::@a9f222c0012d4c001251",
+					"jsonFile" : "target-Aliyun-Debug-fd3dd74a219660461dc8.json",
+					"name" : "Aliyun",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Aliyun_autogen::@a9f222c0012d4c001251",
+					"jsonFile" : "target-Aliyun_autogen-Debug-5d9848c2984738e552cb.json",
+					"name" : "Aliyun_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Aliyun_autogen_timestamp_deps::@a9f222c0012d4c001251",
+					"jsonFile" : "target-Aliyun_autogen_timestamp_deps-Debug-32ce3e751f294ec29b08.json",
+					"name" : "Aliyun_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "condition_variable::@5468c915367e875ebeae",
+					"jsonFile" : "target-condition_variable-Debug-a60ecfe419e87f9985a5.json",
+					"name" : "condition_variable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "mutex::@d0ab889fb29261b31c33",
+					"jsonFile" : "target-mutex-Debug-cc06b92a240a4b19231f.json",
+					"name" : "mutex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "package::@11b0938947d7d39e0734",
+					"jsonFile" : "target-package-Debug-153cdb56ae539e4a0caa.json",
+					"name" : "package",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "promise_future::@57e0f92b9e0194174d7c",
+					"jsonFile" : "target-promise_future-Debug-25a9eebc8e2110a269b0.json",
+					"name" : "promise_future",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "template::@23642215846847f51b25",
+					"jsonFile" : "target-template-Debug-d6fde9f9ccdd12a1daec.json",
+					"name" : "template",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "template_autogen::@23642215846847f51b25",
+					"jsonFile" : "target-template_autogen-Debug-1d91810b926eb4af7ab2.json",
+					"name" : "template_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "template_autogen_timestamp_deps::@23642215846847f51b25",
+					"jsonFile" : "target-template_autogen_timestamp_deps-Debug-7701be4e65e69cc269dd.json",
+					"name" : "template_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "thread::@5d16cfb9a77eaad43941",
+					"jsonFile" : "target-thread-Debug-fb61ad7d335cf625fd95.json",
+					"name" : "thread",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/29451/Desktop/Clion_Qt1/cmake-build-debug",
+		"source" : "C:/Users/29451/Desktop/Clion_Qt1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
